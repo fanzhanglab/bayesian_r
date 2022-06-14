@@ -7,4 +7,6 @@ I successfully installed CmdStan to /Users/zhanfan/.cmdstan/cmdstan-2.29.2, and 
 
 I also installed [rethinking](https://github.com/rmcelreath/rethinking) which has many implemented packages for Bayesian models.
 
-I tested the Bayesian Zero inflated Possion modeling and the code is [here](https://github.com/fanzhanglab/bayesian_r/blob/main/zero_inflated_possion_bayesian.ipynb). We may consider generating some other Bayesian modeling and inference using `cmdstanr` in the future.
+I run the Bayesian Zero inflated Possion modeling and the code is [here](https://github.com/fanzhanglab/bayesian_r/blob/main/zero_inflated_possion_bayesian.ipynb). Thank Francisco de Abreu e Lima for setting a nice example! 
+
+We may consider generating some other Bayesian modeling and inference using `cmdstanr` in the future.
